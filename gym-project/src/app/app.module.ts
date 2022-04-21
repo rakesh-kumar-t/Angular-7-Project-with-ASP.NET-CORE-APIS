@@ -25,7 +25,7 @@ import { MatSortModule } from "@angular/material/sort";
 import { MatPaginatorModule } from "@angular/material/paginator";
 import { MatInputModule } from "@angular/material/input";
 import { MatSnackBarModule } from "@angular/material/snack-bar";
-import { MatFormFieldModule } from "@angular/material";
+import { MatFormFieldModule } from "@angular/material/form-field";
 import { UserRegistrationComponent } from "./CreateUsers/app.UserRegistration.component";
 import { AllUserRegistrationComponent } from "./CreateUsers/app.AllUserRegistration.component";
 import { EditUserRegistrationComponent } from "./CreateUsers/app.EditUserRegistration.component";
