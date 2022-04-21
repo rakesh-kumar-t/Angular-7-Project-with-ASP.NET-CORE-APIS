@@ -21,13 +21,11 @@ import { AllRoleComponent } from "./RoleMaster/app.AllRole.component";
 import { EditRoleComponent } from "./RoleMaster/app.EditRole.component";
 import { MemberRegistrationComponent } from "./MemberRegistration/app.MemberRegistration.component";
 import { EditMemberRegistrationComponent } from "./MemberRegistration/app.EditMemberRegistration.component";
-import {
-  MatSortModule,
-  MatPaginatorModule,
-  MatFormFieldModule,
-  MatInputModule,
-  MatSnackBarModule,
-} from "@angular/material";
+import { MatSortModule } from "@angular/material/sort";
+import { MatPaginatorModule } from "@angular/material/paginator";
+import { MatInputModule } from "@angular/material/input";
+import { MatSnackBarModule } from "@angular/material/snack-bar";
+import { MatFormFieldModule } from "@angular/material";
 import { UserRegistrationComponent } from "./CreateUsers/app.UserRegistration.component";
 import { AllUserRegistrationComponent } from "./CreateUsers/app.AllUserRegistration.component";
 import { EditUserRegistrationComponent } from "./CreateUsers/app.EditUserRegistration.component";
