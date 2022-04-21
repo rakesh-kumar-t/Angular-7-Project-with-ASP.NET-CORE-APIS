@@ -26,8 +26,6 @@ import {
   MatPaginatorModule,
   MatFormFieldModule,
   MatInputModule,
-  MatSnackBar,
-  MatSnackBarConfig,
   MatSnackBarModule,
 } from "@angular/material";
 import { UserRegistrationComponent } from "./CreateUsers/app.UserRegistration.component";
